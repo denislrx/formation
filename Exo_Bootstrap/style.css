@@ -1,0 +1,41 @@
+.vignetteTableau {
+  background: linear-gradient(rgb(255, 153, 153), rgb(255, 0, 0));
+  border-radius: 5%;
+  height: 90%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.graphLittle {
+  height: 80%;
+  width: 80%;
+}
+
+#barreRecherche {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.Side {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.arrondi {
+  border-radius: 5%;
+}
+.vignGrdTab {
+  background-color: white;
+  border-radius: 5%;
+  height: 90%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.padNotif {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
